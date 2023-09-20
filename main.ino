@@ -1,5 +1,8 @@
-// C++ code
-//
+// Created by: Mikey Gloriani
+// Created on: Sept 2023
+// 
+// This makes the light on the Arduino blink
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
